@@ -28,4 +28,4 @@ Estudante e apaixonado por tecnologia, facilitar, educar e mudar a vida das pess
 - [Em breve](colocarlink)
 
 ## Contato:
--  E-mail: rapha.dvlp@gmail.com
+-  E-mail: rs.raphaelrodrigues@gmail.com
